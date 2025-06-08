@@ -43,6 +43,7 @@ You will see the step-by-step processing results of the TGCM algorithm.
 ```
 .
 ├── data/              # Folder containing test IR image samples
+├── results/           # Folder to save detection results, saliency maps, processed images
 ├── SHOW_TGCM.m        # Main demo script to run the algorithm
 ├── Other .m files     # Supporting functions used in the algorithm
 └── README.md          # This file
@@ -115,13 +116,6 @@ The image data used in this code is acquired from:
   *"A dataset for infrared detection and tracking of dim-small aircraft targets under ground / air background,"*  
   China Scientific Data, vol. 5, no. 3, 2020.  
   [doi: 10.11922/sciencedb.902](https://doi.org/10.11922/sciencedb.902)
-
----
-
-## License
-
-This code is released for academic research purposes.  
-For commercial use, please contact the authors.
 
 ---
 
