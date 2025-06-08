@@ -45,8 +45,7 @@ You will see the step-by-step processing results of the TGCM algorithm.
 ├── data/              # Folder containing test IR image samples
 ├── SHOW_TGCM.m        # Main demo script to run the algorithm
 ├── Other .m files     # Supporting functions used in the algorithm
-├── README.md          # This file
-└── TGRS_double_col_R1.pdf  # Paper preprint
+└── README.md          # This file
 ```
 
 ---
