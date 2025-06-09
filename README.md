@@ -26,7 +26,7 @@ TGCM leverages global decomposition combined with local contrast operations to e
 ### Running the Code
 
 1. Clone or download this repository.
-2. Place your test images in the `./data/` folder (some example images are already provided).
+2. Place your test images in the `./data/` folder.
 3. Open MATLAB and navigate to the project folder.
 4. Run the main script:
 
@@ -34,7 +34,7 @@ TGCM leverages global decomposition combined with local contrast operations to e
 SHOW_TGCM
 ```
 
-You will see the step-by-step processing results of the TGCM algorithm.
+You will see the step-by-step processing results of the TGCM algorithm, and the results will be stored in the `./results/` folder.
 
 ---
 
