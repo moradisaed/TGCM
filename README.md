@@ -71,7 +71,7 @@ Below are **example qualitative results** of the TGCM algorithm compared to seve
 
 ### ROC Curves
 
-![ROC Curves](https://via.placeholder.com/800x400?text=Insert+ROC+Curves+Here)
+![ROC Curves](./assets/ROC.png)
 
 ### Key Observations:
 
