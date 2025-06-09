@@ -63,7 +63,7 @@ Below are **example qualitative results** of the TGCM algorithm compared to seve
 
 ### Example Comparison of Methods (Saliency Maps)
 
-![Saliency Maps](https://via.placeholder.com/800x400?text=Insert+Saliency+Maps+Comparison+Here)
+![Saliency Maps](./assets/saliencymaps.png)
 
 ### Final Detection Results Across Sequences
 
