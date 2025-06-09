@@ -67,7 +67,7 @@ Below are **example qualitative results** of the TGCM algorithm compared to seve
 
 ### Final Detection Results Across Sequences
 
-![Detection Results](https://via.placeholder.com/800x400?text=Insert+Detection+Results+Comparison+Here)
+![Detection Results](./assets/detectionresults.png)
 
 ### ROC Curves
 
