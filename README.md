@@ -15,6 +15,8 @@ This code implements the **True Global Contrast Measure (TGCM)** method for infr
 TGCM leverages global decomposition combined with local contrast operations to enhance true targets while suppressing complex backgrounds and noise.
 
 ![TGCM Pipeline](./assets/pipeline.png)
+
+### TGCM Processing Pipeline
 ---
 
 ## Getting Started
