@@ -14,9 +14,11 @@ This repository contains the source code for the paper:
 This code implements the **True Global Contrast Measure (TGCM)** method for infrared (IR) small target detection under complex background conditions, as proposed in the above paper.  
 TGCM leverages global decomposition combined with local contrast operations to enhance true targets while suppressing complex backgrounds and noise.
 
+### TGCM Processing Pipeline
+
 ![TGCM Pipeline](./assets/pipeline.png)
 
-### TGCM Processing Pipeline
+
 ---
 
 ## Getting Started
