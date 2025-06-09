@@ -56,9 +56,9 @@ You will see the step-by-step processing results of the TGCM algorithm, and the 
 
 ---
 
-## Qualitative Results
+## Results
 
-Below are **example qualitative results** of the TGCM algorithm compared to several baseline methods, as reported in the paper.
+Below are **example results** of the TGCM algorithm compared to several baseline methods, as reported in the paper.
 
 
 ### Example Comparison of Methods (Saliency Maps)
