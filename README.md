@@ -5,7 +5,7 @@ This repository contains the source code for the paper:
 
 > **Jinhui Han, Saed Moradi, Bo Zhou, Wei Wang, Qian Zhao, and Zhen Luo**,  
 > *"A True Global Contrast Method for IR Small Target Detection under Complex Background,"*  
-> IEEE Transactions on Geoscience and Remote Sensing (TGRS), vol. XX, pp. XX–XX, 2025.
+> IEEE Transactions on Geoscience and Remote Sensing (TGRS), vol. 63, pp. 1–24, 2025.
 
 ---
 
@@ -87,13 +87,14 @@ Below are **example results** of the TGCM algorithm compared to several baseline
 If you use this code in your research, please cite the following papers:
 
 ```bibtex
-@article{han2025tgcm,
-  title     = {A True Global Contrast Method for IR Small Target Detection under Complex Background},
-  author    = {Han, Jinhui and Moradi, Saed and Zhou, Bo and Wang, Wei and Zhao, Qian and Luo, Zhen},
-  journal   = {IEEE Transactions on Geoscience and Remote Sensing},
-  volume    = {XX},
-  pages     = {XX--XX},
-  year      = {2025}
+@article{han2025true,
+  author={Han, Jinhui and Moradi, Saed and Zhou, Bo and Wang, Wei and Zhao, Qian and Luo, Zhen},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={A True Global Contrast Method for IR Small Target Detection Under Complex Background}, 
+  year={2025},
+  volume={63},
+  pages={1-24},
+    doi={10.1109/TGRS.2025.3579206}
 }
 
 @article{gao2013ipi,
