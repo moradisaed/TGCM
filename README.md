@@ -94,7 +94,7 @@ If you use this code in your research, please cite the following papers:
   year={2025},
   volume={63},
   pages={1-24},
-    doi={10.1109/TGRS.2025.3579206}
+  doi={10.1109/TGRS.2025.3579206}
 }
 
 @article{gao2013ipi,
